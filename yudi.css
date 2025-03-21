@@ -1,0 +1,75 @@
+body{
+   background-image: url(https://cdn.wallpapersafari.com/94/39/VAhwn3.jpg);
+   color: white;   
+}
+
+
+.container{
+    display: block;
+
+
+}
+.containertitulo{
+    background-color: #0a630d;
+    height: 80px;
+    align-content: center;
+
+}
+.textcenter{
+   text-align: center;
+}
+.foto-perfil{
+    border-radius: 8px;
+    width: 300px;
+    height: 300px;
+}
+
+.left-column{
+    display: block;
+    text-align: center;
+}
+
+.right-column{
+    text-align: center;
+    height: 80px;
+    width: 600px;
+    border-radius: 15px;
+    background-color: aquamarine;
+     display:flexbox;
+}
+
+.menu img{
+    display: block;
+    margin-left: 580px;
+    border-radius: 15px;
+    border: solid black;
+    margin-top: 0px;
+    width: 300px;
+    height: 300px;
+
+}
+strong,h3,p{
+    color: white;
+}
+
+.menu{
+    text-align: right;
+}
+
+.menu li{
+    display: inline-block;
+    margin: 8px;
+    
+}
+
+.menu a{
+  background-color:#1e9e22;
+  padding: 18px;
+  border-radius: 11px;
+  color: rgb(206, 204, 204);
+  text-decoration: none;
+
+}
+.menu a:hover{
+    background-color: #253425;
+}
